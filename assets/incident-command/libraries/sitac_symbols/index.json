@@ -1,0 +1,373 @@
+[
+  {
+    "name": "Sluttning medel lutning",
+    "path": "assets/incident-command/libraries/sitac_symbols/Sluttning_medel_lutning.svg",
+    "file": "Sluttning_medel_lutning.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Avsparrning",
+    "path": "assets/incident-command/libraries/sitac_symbols/Avsparrning.svg",
+    "file": "Avsparrning.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Fardigstalld begransningslinje torr metod",
+    "path": "assets/incident-command/libraries/sitac_symbols/Fardigstalld_begransningslinje_torr_metod.svg",
+    "file": "Fardigstalld_begransningslinje_torr_metod.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Genomford vattenbombning med helikopter",
+    "path": "assets/incident-command/libraries/sitac_symbols/Genomford_vattenbombning_med_helikopter.svg",
+    "file": "Genomford_vattenbombning_med_helikopter.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Raddningstjanstresurs pa plats",
+    "path": "assets/incident-command/libraries/sitac_symbols/Raddningstjanstresurs_pa_plats.svg",
+    "file": "Raddningstjanstresurs_pa_plats.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Brandens startpunkt",
+    "path": "assets/incident-command/libraries/sitac_symbols/Brandens_startpunkt.svg",
+    "file": "Brandens_startpunkt.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Genomfort direkt angrepp symbol pa linje",
+    "path": "assets/incident-command/libraries/sitac_symbols/Genomfort_direkt_angrepp_symbol_pa_linje.svg",
+    "file": "Genomfort_direkt_angrepp_symbol_pa_linje.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Vagavstangning",
+    "path": "assets/incident-command/libraries/sitac_symbols/Vagavstangning.svg",
+    "file": "Vagavstangning.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Planerad ambulansresurs",
+    "path": "assets/incident-command/libraries/sitac_symbols/Planerad_ambulansresurs.svg",
+    "file": "Planerad_ambulansresurs.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Fardigstalld skyddslinje",
+    "path": "assets/incident-command/libraries/sitac_symbols/Fardigstalld_skyddslinje.svg",
+    "file": "Fardigstalld_skyddslinje.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Vattentag Markburna resurser",
+    "path": "assets/incident-command/libraries/sitac_symbols/Vattentag_Markburna_resurser.svg",
+    "file": "Vattentag_Markburna_resurser.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Lag spridningshastighet",
+    "path": "assets/incident-command/libraries/sitac_symbols/Lag_spridningshastighet.svg",
+    "file": "Lag_spridningshastighet.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Planerad brytpunkt",
+    "path": "assets/incident-command/libraries/sitac_symbols/Planerad_brytpunkt.svg",
+    "file": "Planerad_brytpunkt.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Kanslig punkt WUI",
+    "path": "assets/incident-command/libraries/sitac_symbols/Kanslig_punkt_WUI.svg",
+    "file": "Kanslig_punkt_WUI.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Planerad eller pagaende vattenbombning med flygplan",
+    "path": "assets/incident-command/libraries/sitac_symbols/Planerad_eller_pagaende_vattenbombning_med_flygplan.svg",
+    "file": "Planerad_eller_pagaende_vattenbombning_med_flygplan.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Vagblockering",
+    "path": "assets/incident-command/libraries/sitac_symbols/Vagblockering.svg",
+    "file": "Vagblockering.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Planerad eller pagaende skyddslinje",
+    "path": "assets/incident-command/libraries/sitac_symbols/Planerad_eller_pagaende_skyddslinje.svg",
+    "file": "Planerad_eller_pagaende_skyddslinje.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Genomford evakuering",
+    "path": "assets/incident-command/libraries/sitac_symbols/Genomford_evakuering.svg",
+    "file": "Genomford_evakuering.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Polisresurs pa plats",
+    "path": "assets/incident-command/libraries/sitac_symbols/Polisresurs_pa_plats.svg",
+    "file": "Polisresurs_pa_plats.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Vagavstangning planerad",
+    "path": "assets/incident-command/libraries/sitac_symbols/Vagavstangning_planerad.svg",
+    "file": "Vagavstangning_planerad.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Spanningslos kraftledning",
+    "path": "assets/incident-command/libraries/sitac_symbols/Spanningslos_kraftledning.svg",
+    "file": "Spanningslos_kraftledning.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Planerad eller pagaende begransningslinje vat metod",
+    "path": "assets/incident-command/libraries/sitac_symbols/Planerad_eller_pagaende_begransningslinje_vat_metod.svg",
+    "file": "Planerad_eller_pagaende_begransningslinje_vat_metod.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Hog spridningshastighet",
+    "path": "assets/incident-command/libraries/sitac_symbols/Hog_spridningshastighet.svg",
+    "file": "Hog_spridningshastighet.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Pagaende evakuering",
+    "path": "assets/incident-command/libraries/sitac_symbols/Pagaende_evakuering.svg",
+    "file": "Pagaende_evakuering.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Vindriktning",
+    "path": "assets/incident-command/libraries/sitac_symbols/Vindriktning.svg",
+    "file": "Vindriktning.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Fardigstalld begransningslinje vat metod",
+    "path": "assets/incident-command/libraries/sitac_symbols/Fardigstalld_begransningslinje_vat_metod.svg",
+    "file": "Fardigstalld_begransningslinje_vat_metod.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Ambulansresurs pa plats",
+    "path": "assets/incident-command/libraries/sitac_symbols/Ambulansresurs_pa_plats.svg",
+    "file": "Ambulansresurs_pa_plats.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Sluttning stark lutning",
+    "path": "assets/incident-command/libraries/sitac_symbols/Sluttning_stark_lutning.svg",
+    "file": "Sluttning_stark_lutning.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Helikopterlandningsplats",
+    "path": "assets/incident-command/libraries/sitac_symbols/Helikopterlandningsplats.svg",
+    "file": "Helikopterlandningsplats.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Naturliga foradringar",
+    "path": "assets/incident-command/libraries/sitac_symbols/Naturliga_foradringar.svg",
+    "file": "Naturliga_foradringar.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Befintlig ledningsplats",
+    "path": "assets/incident-command/libraries/sitac_symbols/Befintlig_ledningsplats.svg",
+    "file": "Befintlig_ledningsplats.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Sluttning svag lutning",
+    "path": "assets/incident-command/libraries/sitac_symbols/Sluttning_svag_lutning.svg",
+    "file": "Sluttning_svag_lutning.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Atersamlingsplats",
+    "path": "assets/incident-command/libraries/sitac_symbols/Atersamlingsplats.svg",
+    "file": "Atersamlingsplats.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Brandfrontens spridningsriktning",
+    "path": "assets/incident-command/libraries/sitac_symbols/Brandfrontens_spridningsriktning.svg",
+    "file": "Brandfrontens_spridningsriktning.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Vattentag Helikopter",
+    "path": "assets/incident-command/libraries/sitac_symbols/Vattentag_Helikopter.svg",
+    "file": "Vattentag_Helikopter.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Ovrig resurs pa plats",
+    "path": "assets/incident-command/libraries/sitac_symbols/Ovrig_resurs_pa_plats.svg",
+    "file": "Ovrig_resurs_pa_plats.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Planerad raddningstjanstresurs",
+    "path": "assets/incident-command/libraries/sitac_symbols/Planerad_raddningstjanstresurs.svg",
+    "file": "Planerad_raddningstjanstresurs.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Planerad avsparrning",
+    "path": "assets/incident-command/libraries/sitac_symbols/Planerad_avsparrning.svg",
+    "file": "Planerad_avsparrning.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Vattentag Flygplan",
+    "path": "assets/incident-command/libraries/sitac_symbols/Vattentag_Flygplan.svg",
+    "file": "Vattentag_Flygplan.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Genomford tandning pa linje symbol pa linje",
+    "path": "assets/incident-command/libraries/sitac_symbols/Genomford_tandning_pa_linje_symbol_pa_linje.svg",
+    "file": "Genomford_tandning_pa_linje_symbol_pa_linje.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Planerad eller pagaende begransningslinje torr metod",
+    "path": "assets/incident-command/libraries/sitac_symbols/Planerad_eller_pagaende_begransningslinje_torr_metod.svg",
+    "file": "Planerad_eller_pagaende_begransningslinje_torr_metod.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Planerad polisresurs",
+    "path": "assets/incident-command/libraries/sitac_symbols/Planerad_polisresurs.svg",
+    "file": "Planerad_polisresurs.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Spanningssatt kraftledning",
+    "path": "assets/incident-command/libraries/sitac_symbols/Spanningssatt_kraftledning.svg",
+    "file": "Spanningssatt_kraftledning.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Planerad ovrig resurs",
+    "path": "assets/incident-command/libraries/sitac_symbols/Planerad_ovrig_resurs.svg",
+    "file": "Planerad_ovrig_resurs.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Planerad eller pagaende vattenbombning med helikopter",
+    "path": "assets/incident-command/libraries/sitac_symbols/Planerad_eller_pagaende_vattenbombning_med_helikopter.svg",
+    "file": "Planerad_eller_pagaende_vattenbombning_med_helikopter.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Planerad evakuering",
+    "path": "assets/incident-command/libraries/sitac_symbols/Planerad_evakuering.svg",
+    "file": "Planerad_evakuering.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Flygande enhet pa plats",
+    "path": "assets/incident-command/libraries/sitac_symbols/Flygande_enhet_pa_plats.svg",
+    "file": "Flygande_enhet_pa_plats.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Planerad flygande enhet",
+    "path": "assets/incident-command/libraries/sitac_symbols/Planerad_flygande_enhet.svg",
+    "file": "Planerad_flygande_enhet.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Planerad ledningsplats",
+    "path": "assets/incident-command/libraries/sitac_symbols/Planerad_ledningsplats.svg",
+    "file": "Planerad_ledningsplats.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Befintlig brytpunkt",
+    "path": "assets/incident-command/libraries/sitac_symbols/Befintlig_brytpunkt.svg",
+    "file": "Befintlig_brytpunkt.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Genomford vattenbombning med flygplan",
+    "path": "assets/incident-command/libraries/sitac_symbols/Genomford_vattenbombning_med_flygplan.svg",
+    "file": "Genomford_vattenbombning_med_flygplan.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Planerad eller pagaende tandning pa linje symbol pa linje",
+    "path": "assets/incident-command/libraries/sitac_symbols/Planerad_eller_pagaende_tandning_pa_linje_symbol_pa_linje.svg",
+    "file": "Planerad_eller_pagaende_tandning_pa_linje_symbol_pa_linje.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  },
+  {
+    "name": "Planerat eller pagaende direkt angrepp symbol pa linje",
+    "path": "assets/incident-command/libraries/sitac_symbols/Planerat_eller_pagaende_direkt_angrepp_symbol_pa_linje.svg",
+    "file": "Planerat_eller_pagaende_direkt_angrepp_symbol_pa_linje.svg",
+    "type": "marker/basic",
+    "category": "sitac symbols"
+  }
+]

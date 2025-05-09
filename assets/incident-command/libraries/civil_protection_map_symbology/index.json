@@ -1,0 +1,1248 @@
+[
+  {
+    "name": "Point of egress out of a cordoned area",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Point of egress out of a cordoned area.svg",
+    "file": "Point of egress out of a cordoned area.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Point of access into a cordoned area (colour)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Point of access into a cordoned area (colour).svg",
+    "file": "Point of access into a cordoned area (colour).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Point of access into a cordoned area (black and white)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Point of access into a cordoned area (black and white).svg",
+    "file": "Point of access into a cordoned area (black and white).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Scene Access Control Point (black and white)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Scene Access Control Point (black and white).svg",
+    "file": "Scene Access Control Point (black and white).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Scene Access Control Point (colour)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Scene Access Control Point (colour).svg",
+    "file": "Scene Access Control Point (colour).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Forward Command Post (Police and Fire)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Forward Command Post (Police and Fire).svg",
+    "file": "Forward Command Post (Police and Fire).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Emergency Control Centre (Local Authority)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Emergency Control Centre (Local Authority).svg",
+    "file": "Emergency Control Centre (Local Authority).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Silver Command Post (Police, Fire and Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Silver Command Post (Police, Fire and Ambulance).svg",
+    "file": "Silver Command Post (Police, Fire and Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Gold Command Post (Police, Fire and Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Gold Command Post (Police, Fire and Ambulance).svg",
+    "file": "Gold Command Post (Police, Fire and Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Operational Command Post (Fire)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Operational Command Post (Fire).svg",
+    "file": "Operational Command Post (Fire).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Forward Command Post (Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Forward Command Post (Ambulance).svg",
+    "file": "Forward Command Post (Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Forward Command Post (Police)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Forward Command Post (Police).svg",
+    "file": "Forward Command Post (Police).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Strategic Coordinating Group",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Strategic Coordinating Group.svg",
+    "file": "Strategic Coordinating Group.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Operational Command Post (Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Operational Command Post (Ambulance).svg",
+    "file": "Operational Command Post (Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Tactical Command Post (Police and Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Tactical Command Post (Police and Ambulance).svg",
+    "file": "Tactical Command Post (Police and Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Maritime Rescue Coordination Centre",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Maritime Rescue Coordination Centre.svg",
+    "file": "Maritime Rescue Coordination Centre.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Incident Command Post (Police)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Incident Command Post (Police).svg",
+    "file": "Incident Command Post (Police).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Strategic Command Post (Police)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Strategic Command Post (Police).svg",
+    "file": "Strategic Command Post (Police).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Bronze Command Post (Fire and Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Bronze Command Post (Fire and Ambulance).svg",
+    "file": "Bronze Command Post (Fire and Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Tactical Coordinating Group",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Tactical Coordinating Group.svg",
+    "file": "Tactical Coordinating Group.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Salvage Control Unit",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Salvage Control Unit.svg",
+    "file": "Salvage Control Unit.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Bronze Command Post (Fire)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Bronze Command Post (Fire).svg",
+    "file": "Bronze Command Post (Fire).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Shoreline Response Centre",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Shoreline Response Centre.svg",
+    "file": "Shoreline Response Centre.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Incident Command Post (Fire)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Incident Command Post (Fire).svg",
+    "file": "Incident Command Post (Fire).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Response Coordinating Group",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Response Coordinating Group.svg",
+    "file": "Response Coordinating Group.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Bronze Command Post (Police, Fire and Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Bronze Command Post (Police, Fire and Ambulance).svg",
+    "file": "Bronze Command Post (Police, Fire and Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Operational Command Post (Police and Fire)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Operational Command Post (Police and Fire).svg",
+    "file": "Operational Command Post (Police and Fire).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Regional Control Centre (Highways Agency)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Regional Control Centre (Highways Agency).svg",
+    "file": "Regional Control Centre (Highways Agency).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Operational Command Post (Fire and Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Operational Command Post (Fire and Ambulance).svg",
+    "file": "Operational Command Post (Fire and Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Incident Command Post (Fire and Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Incident Command Post (Fire and Ambulance).svg",
+    "file": "Incident Command Post (Fire and Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Emergency Operations Centre (Local Authority)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Emergency Operations Centre (Local Authority).svg",
+    "file": "Emergency Operations Centre (Local Authority).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Tactical Command Post (Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Tactical Command Post (Ambulance).svg",
+    "file": "Tactical Command Post (Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Silver Command Post (Police and Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Silver Command Post (Police and Ambulance).svg",
+    "file": "Silver Command Post (Police and Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Forward Command Post (Fire)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Forward Command Post (Fire).svg",
+    "file": "Forward Command Post (Fire).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Forward Command Post (Fire and Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Forward Command Post (Fire and Ambulance).svg",
+    "file": "Forward Command Post (Fire and Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Operational Command Post (Police and Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Operational Command Post (Police and Ambulance).svg",
+    "file": "Operational Command Post (Police and Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Gold Command Post (Police and Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Gold Command Post (Police and Ambulance).svg",
+    "file": "Gold Command Post (Police and Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Gold Command Post (Police)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Gold Command Post (Police).svg",
+    "file": "Gold Command Post (Police).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Gold Command Post (Police and Fire)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Gold Command Post (Police and Fire).svg",
+    "file": "Gold Command Post (Police and Fire).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Strategic Command Post (Police and Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Strategic Command Post (Police and Ambulance).svg",
+    "file": "Strategic Command Post (Police and Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Strategic Coordination Centre",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Strategic Coordination Centre.svg",
+    "file": "Strategic Coordination Centre.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Silver Command Post (Police)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Silver Command Post (Police).svg",
+    "file": "Silver Command Post (Police).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Strategic Command Post (Fire)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Strategic Command Post (Fire).svg",
+    "file": "Strategic Command Post (Fire).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Incident Command Post (Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Incident Command Post (Ambulance).svg",
+    "file": "Incident Command Post (Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Aeronautical Rescue Coordination Centre",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Aeronautical Rescue Coordination Centre.svg",
+    "file": "Aeronautical Rescue Coordination Centre.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Tactical Command Post (Fire and Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Tactical Command Post (Fire and Ambulance).svg",
+    "file": "Tactical Command Post (Fire and Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Incident Command Post (Police and Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Incident Command Post (Police and Ambulance).svg",
+    "file": "Incident Command Post (Police and Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Forward Command Post (Police, Fire and Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Forward Command Post (Police, Fire and Ambulance).svg",
+    "file": "Forward Command Post (Police, Fire and Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Tactical Command Post (Police and Fire)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Tactical Command Post (Police and Fire).svg",
+    "file": "Tactical Command Post (Police and Fire).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Gold Command Post (Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Gold Command Post (Ambulance).svg",
+    "file": "Gold Command Post (Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Incident Command Post (Police, Fire and Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Incident Command Post (Police, Fire and Ambulance).svg",
+    "file": "Incident Command Post (Police, Fire and Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Bronze Command Post (Police and Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Bronze Command Post (Police and Ambulance).svg",
+    "file": "Bronze Command Post (Police and Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Forward Command Post (Police and Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Forward Command Post (Police and Ambulance).svg",
+    "file": "Forward Command Post (Police and Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Strategic Command Post (Fire and Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Strategic Command Post (Fire and Ambulance).svg",
+    "file": "Strategic Command Post (Fire and Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Operational Command Post (Police)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Operational Command Post (Police).svg",
+    "file": "Operational Command Post (Police).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Silver Command Post (Fire and Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Silver Command Post (Fire and Ambulance).svg",
+    "file": "Silver Command Post (Fire and Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Strategic Command Post (Police, Fire and Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Strategic Command Post (Police, Fire and Ambulance).svg",
+    "file": "Strategic Command Post (Police, Fire and Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Bronze Command Post (Police)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Bronze Command Post (Police).svg",
+    "file": "Bronze Command Post (Police).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Bronze Command Post (Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Bronze Command Post (Ambulance).svg",
+    "file": "Bronze Command Post (Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Recovery Coordinating Group",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Recovery Coordinating Group.svg",
+    "file": "Recovery Coordinating Group.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Tactical Command Post (Police, Fire and Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Tactical Command Post (Police, Fire and Ambulance).svg",
+    "file": "Tactical Command Post (Police, Fire and Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Silver Command Post (Fire)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Silver Command Post (Fire).svg",
+    "file": "Silver Command Post (Fire).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Maritime Response Centre",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Maritime Response Centre.svg",
+    "file": "Maritime Response Centre.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Tactical Command Post (Fire)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Tactical Command Post (Fire).svg",
+    "file": "Tactical Command Post (Fire).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Srategic Command Post (Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Srategic Command Post (Ambulance).svg",
+    "file": "Srategic Command Post (Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Strategic Command Post (Police and Fire)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Strategic Command Post (Police and Fire).svg",
+    "file": "Strategic Command Post (Police and Fire).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Gold Command Post (Fire)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Gold Command Post (Fire).svg",
+    "file": "Gold Command Post (Fire).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Operational Command Post (Police, Fire and Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Operational Command Post (Police, Fire and Ambulance).svg",
+    "file": "Operational Command Post (Police, Fire and Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Silver Command Post (Police and Fire)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Silver Command Post (Police and Fire).svg",
+    "file": "Silver Command Post (Police and Fire).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Gold Command Post (Fire and Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Gold Command Post (Fire and Ambulance).svg",
+    "file": "Gold Command Post (Fire and Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Silver Command Post (Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Silver Command Post (Ambulance).svg",
+    "file": "Silver Command Post (Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Incident Command Post (Police and Fire)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Incident Command Post (Police and Fire).svg",
+    "file": "Incident Command Post (Police and Fire).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Local Disease Control Centre",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Local Disease Control Centre.svg",
+    "file": "Local Disease Control Centre.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Bronze Command Post (Police and Fire)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Bronze Command Post (Police and Fire).svg",
+    "file": "Bronze Command Post (Police and Fire).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Tactical Command Post (Police)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Tactical Command Post (Police).svg",
+    "file": "Tactical Command Post (Police).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Chemical Release",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Chemical Release.svg",
+    "file": "Chemical Release.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Biological Release",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Biological Release.svg",
+    "file": "Biological Release.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Fire",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Fire.svg",
+    "file": "Fire.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Radiation Release",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Radiation Release.svg",
+    "file": "Radiation Release.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Bomb",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Bomb.svg",
+    "file": "Bomb.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "IED",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/IED.svg",
+    "file": "IED.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Disease Outbreak",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Disease Outbreak.svg",
+    "file": "Disease Outbreak.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "COMAH (Upper Tier)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/COMAH (Upper Tier).svg",
+    "file": "COMAH (Upper Tier).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Hazmat",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Hazmat.svg",
+    "file": "Hazmat.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Road Traffic Collision (RTC)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Road Traffic Collision (RTC).svg",
+    "file": "Road Traffic Collision (RTC).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Flood",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Flood.svg",
+    "file": "Flood.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "COMAH (Lower Tier)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/COMAH (Lower Tier).svg",
+    "file": "COMAH (Lower Tier).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Oil Refinery",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Oil Refinery.svg",
+    "file": "Oil Refinery.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Water Treatment Works (Green)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Water Treatment Works (Green).svg",
+    "file": "Water Treatment Works (Green).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Oil Refinery (Green)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Oil Refinery (Green).svg",
+    "file": "Oil Refinery (Green).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Civil Nuclear Power Station (Green)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Civil Nuclear Power Station (Green).svg",
+    "file": "Civil Nuclear Power Station (Green).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Electricity Sub Station (Amber)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Electricity Sub Station (Amber).svg",
+    "file": "Electricity Sub Station (Amber).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Designated Receiving Hospital (Amber)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Designated Receiving Hospital (Amber).svg",
+    "file": "Designated Receiving Hospital (Amber).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Gas Terminal (Amber)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Gas Terminal (Amber).svg",
+    "file": "Gas Terminal (Amber).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Mobile Communications Tower (Amber)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Mobile Communications Tower (Amber).svg",
+    "file": "Mobile Communications Tower (Amber).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Accident and Emergency Dept (Green)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Accident and Emergency Dept (Green).svg",
+    "file": "Accident and Emergency Dept (Green).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Electricity Sub Station (Red)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Electricity Sub Station (Red).svg",
+    "file": "Electricity Sub Station (Red).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Water Treatment Works (Red)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Water Treatment Works (Red).svg",
+    "file": "Water Treatment Works (Red).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Hospital (Red)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Hospital (Red).svg",
+    "file": "Hospital (Red).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Oil Refinery (Red)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Oil Refinery (Red).svg",
+    "file": "Oil Refinery (Red).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Civil Nuclear Power Station (Amber)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Civil Nuclear Power Station (Amber).svg",
+    "file": "Civil Nuclear Power Station (Amber).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Electricity Sub Station",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Electricity Sub Station.svg",
+    "file": "Electricity Sub Station.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Oil Refinery (Amber)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Oil Refinery (Amber).svg",
+    "file": "Oil Refinery (Amber).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Accident and Emergency Dept",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Accident and Emergency Dept.svg",
+    "file": "Accident and Emergency Dept.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "School",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/School.svg",
+    "file": "School.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Water Treatment Works (Amber)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Water Treatment Works (Amber).svg",
+    "file": "Water Treatment Works (Amber).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Telephone Exchange",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Telephone Exchange.svg",
+    "file": "Telephone Exchange.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Gas Compressor Station (Red)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Gas Compressor Station (Red).svg",
+    "file": "Gas Compressor Station (Red).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Gas Terminal (Red)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Gas Terminal (Red).svg",
+    "file": "Gas Terminal (Red).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Mobile Communications Tower (Green)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Mobile Communications Tower (Green).svg",
+    "file": "Mobile Communications Tower (Green).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Accident and Emergency Dept (Amber)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Accident and Emergency Dept (Amber).svg",
+    "file": "Accident and Emergency Dept (Amber).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Hospital",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Hospital.svg",
+    "file": "Hospital.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Electricity Sub Station (Green)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Electricity Sub Station (Green).svg",
+    "file": "Electricity Sub Station (Green).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Gas Terminal (Green)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Gas Terminal (Green).svg",
+    "file": "Gas Terminal (Green).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Designated Receiving Hospital (Green)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Designated Receiving Hospital (Green).svg",
+    "file": "Designated Receiving Hospital (Green).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Gas Compressor Station",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Gas Compressor Station.svg",
+    "file": "Gas Compressor Station.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "School (Red)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/School (Red).svg",
+    "file": "School (Red).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Civil Nuclear Power Station (Red)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Civil Nuclear Power Station (Red).svg",
+    "file": "Civil Nuclear Power Station (Red).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Gas Terminal",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Gas Terminal.svg",
+    "file": "Gas Terminal.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "School (Amber)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/School (Amber).svg",
+    "file": "School (Amber).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Telephone Exchange (Red)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Telephone Exchange (Red).svg",
+    "file": "Telephone Exchange (Red).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Accident and Emergency Dept (Red)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Accident and Emergency Dept (Red).svg",
+    "file": "Accident and Emergency Dept (Red).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Gas Compressor Station (Green)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Gas Compressor Station (Green).svg",
+    "file": "Gas Compressor Station (Green).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Civil Nuclear Power Station",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Civil Nuclear Power Station.svg",
+    "file": "Civil Nuclear Power Station.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "LNG storage Facility (Amber)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/LNG storage Facility (Amber).svg",
+    "file": "LNG storage Facility (Amber).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Hospital (Amber)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Hospital (Amber).svg",
+    "file": "Hospital (Amber).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "LNG storage Facility",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/LNG storage Facility.svg",
+    "file": "LNG storage Facility.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Telephone Exchange (Amber)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Telephone Exchange (Amber).svg",
+    "file": "Telephone Exchange (Amber).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Mobile Communications Tower (Red)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Mobile Communications Tower (Red).svg",
+    "file": "Mobile Communications Tower (Red).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "LNG storage Facility (Red)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/LNG storage Facility (Red).svg",
+    "file": "LNG storage Facility (Red).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Water Treatment Works",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Water Treatment Works.svg",
+    "file": "Water Treatment Works.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "School (Green)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/School (Green).svg",
+    "file": "School (Green).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Hospital (Green)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Hospital (Green).svg",
+    "file": "Hospital (Green).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Telephone Exchange (Green)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Telephone Exchange (Green).svg",
+    "file": "Telephone Exchange (Green).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Mobile Communications Tower",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Mobile Communications Tower.svg",
+    "file": "Mobile Communications Tower.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "LNG storage Facility (Green)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/LNG storage Facility (Green).svg",
+    "file": "LNG storage Facility (Green).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Designated Receiving Hospital",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Designated Receiving Hospital.svg",
+    "file": "Designated Receiving Hospital.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Designated Receiving Hospital (Red)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Designated Receiving Hospital (Red).svg",
+    "file": "Designated Receiving Hospital (Red).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Gas Compressor Station (Amber)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Gas Compressor Station (Amber).svg",
+    "file": "Gas Compressor Station (Amber).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Rendevous Point (Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Rendevous Point (Ambulance).svg",
+    "file": "Rendevous Point (Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Multi-Agency Strategic Holding Area",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Multi-Agency Strategic Holding Area.svg",
+    "file": "Multi-Agency Strategic Holding Area.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Maritime Incident Response Group",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Maritime Incident Response Group.svg",
+    "file": "Maritime Incident Response Group.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Friends and Relatives Reception Centre",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Friends and Relatives Reception Centre.svg",
+    "file": "Friends and Relatives Reception Centre.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Rendevous Point (Fire and Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Rendevous Point (Fire and Ambulance).svg",
+    "file": "Rendevous Point (Fire and Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Casualty Clearing Station",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Casualty Clearing Station.svg",
+    "file": "Casualty Clearing Station.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Ambulance Loading Point",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Ambulance Loading Point.svg",
+    "file": "Ambulance Loading Point.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Evacuation Assembly Point",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Evacuation Assembly Point.svg",
+    "file": "Evacuation Assembly Point.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Urban Search and Rescue Assets",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Urban Search and Rescue Assets.svg",
+    "file": "Urban Search and Rescue Assets.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Royal National Lifeboat Institute Site",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Royal National Lifeboat Institute Site.svg",
+    "file": "Royal National Lifeboat Institute Site.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Joint Emergency Services Control Centre",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Joint Emergency Services Control Centre.svg",
+    "file": "Joint Emergency Services Control Centre.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Rendevous Point (Police)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Rendevous Point (Police).svg",
+    "file": "Rendevous Point (Police).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Helicopter Emergency Medical Service",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Helicopter Emergency Medical Service.svg",
+    "file": "Helicopter Emergency Medical Service.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Strategic Holding Area",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Strategic Holding Area.svg",
+    "file": "Strategic Holding Area.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Rendevous Point (Police and Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Rendevous Point (Police and Ambulance).svg",
+    "file": "Rendevous Point (Police and Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Evacuation Shelter",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Evacuation Shelter.svg",
+    "file": "Evacuation Shelter.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Public Information Point",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Public Information Point.svg",
+    "file": "Public Information Point.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Survivor Reception Centre",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Survivor Reception Centre.svg",
+    "file": "Survivor Reception Centre.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Helicopter Landing Site",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Helicopter Landing Site.svg",
+    "file": "Helicopter Landing Site.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Search and Rescue Asset",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Search and Rescue Asset.svg",
+    "file": "Search and Rescue Asset.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Emergency Media Centre",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Emergency Media Centre.svg",
+    "file": "Emergency Media Centre.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Forward Briefing Point (for the media)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Forward Briefing Point (for the media).svg",
+    "file": "Forward Briefing Point (for the media).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Rendevous Point (Police and Fire)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Rendevous Point (Police and Fire).svg",
+    "file": "Rendevous Point (Police and Fire).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Medical Emergency Response Incident Team",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Medical Emergency Response Incident Team.svg",
+    "file": "Medical Emergency Response Incident Team.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Rendevous Point (Police, Fire and Ambulance)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Rendevous Point (Police, Fire and Ambulance).svg",
+    "file": "Rendevous Point (Police, Fire and Ambulance).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Rendevous Point (Fire)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Rendevous Point (Fire).svg",
+    "file": "Rendevous Point (Fire).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Media Liaison Point",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Media Liaison Point.svg",
+    "file": "Media Liaison Point.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "National Emergency Mortuary Arrangements",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/National Emergency Mortuary Arrangements.svg",
+    "file": "National Emergency Mortuary Arrangements.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Humanitarian Assistance Centre",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Humanitarian Assistance Centre.svg",
+    "file": "Humanitarian Assistance Centre.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "High Integrity Telecoms System Site",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/High Integrity Telecoms System Site.svg",
+    "file": "High Integrity Telecoms System Site.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Health Emergency Operating Centre",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Health Emergency Operating Centre.svg",
+    "file": "Health Emergency Operating Centre.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Radio Amateurs Emergency Network",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Radio Amateurs Emergency Network.svg",
+    "file": "Radio Amateurs Emergency Network.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Rendevous Point (generic symbol)",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Rendevous Point (generic symbol).svg",
+    "file": "Rendevous Point (generic symbol).svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Marshalling Area",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Marshalling Area.svg",
+    "file": "Marshalling Area.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Casualty Bureau",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Casualty Bureau.svg",
+    "file": "Casualty Bureau.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Rest Centre",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Rest Centre.svg",
+    "file": "Rest Centre.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Casualty Collection Point",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Casualty Collection Point.svg",
+    "file": "Casualty Collection Point.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Emergency Mortuary",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Emergency Mortuary.svg",
+    "file": "Emergency Mortuary.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  },
+  {
+    "name": "Holding and Audit Area for Deceased People and Human Remains",
+    "path": "assets/incident-command/libraries/civil_protection_map_symbology/Holding and Audit Area for Deceased People and Human Remains.svg",
+    "file": "Holding and Audit Area for Deceased People and Human Remains.svg",
+    "type": "marker/basic",
+    "category": "civil protection map symbology"
+  }
+]
